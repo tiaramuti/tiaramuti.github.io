@@ -26,7 +26,7 @@ margin-left: 5%!important;
 }
 
 .social a:hover{
-  color:#FDAEAE!important;
+  color:#f35c75!important;
 }
 
 .social i{
@@ -39,7 +39,7 @@ margin-left: 5%!important;
 }
 
 .carousel-caption{
-  background-color: rgba(255, 208, 208, 0.8); !important;
+  background-color: rgba(251, 131, 152, 0.9); !important;
   z-index: 11px;
   color: gray!important;
 }
@@ -76,7 +76,7 @@ margin-left: 5%!important;
   }
 
 .main a {
-  background-color: #D36F6F!important;
+  background-color: #f35c75!important;
   width: 30%;
   height: 25%;
 }
@@ -100,13 +100,24 @@ img {
 
  button {
       margin-left: 40%;
-      background-color: #D36F6F;
+      background-color: #f35c75;
       color: white;
       padding: 2% 9% 2% 9%;
 }
+{box-sizing:border-box}
+.skills {
+  text-align: right; 
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  color: white; 
+}
 
+.ai {width: 90%; background-color: #fb8398;}
+.mdp {width: 80%; background-color: #f35c75;} 
+.ids {width: 65%; background-color: #fb8398;} 
+.ae {width: 60%; background-color: #f35c75;} 
 .text {
-  border-left: 3px solid #D36F6F;
+  border-left: 3px solid #f35c75;
   padding-left: 5%;
   margin-left: 5%;
 }
@@ -121,12 +132,12 @@ position: relative;
 }
 
 .third .line, .fourth .line {
-  border-left: 3px solid #D36F6F;
+  border-left: 3px solid #f35c75;
   margin-left: 0!important;
 }
 
 .footer {
-  background-color: #D36F6F;
+  background-color: #f35c75;
 
 
 }
